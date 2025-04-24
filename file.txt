@@ -2,3 +2,10 @@ Deskripsi :
 Oxy Pharmacy adalah website apotik yang menyediakan obat - obatan dan layanan service untuk customer yang ingin membeli obat(bisa menggunakan resep dokter ataupun tidak) yang nantinya dikirim langsung ke lokasi yang diinginkan.
 
 Fitur : Jual/beli produk medis, Pembayaran, Edukasi  dan informasi, Histori
+
+Team :
+Ar'an Abda'u Munzala Baha Ardi
+Enrico Navarro Lesmana
+Jacknius
+Filip Nathan
+Dede Natanael Chris Pariu
