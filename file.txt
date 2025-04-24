@@ -2,11 +2,3 @@ Deskripsi :
 Oxy Pharmacy adalah website apotik yang menyediakan obat - obatan dan layanan service untuk customer yang ingin membeli obat(bisa menggunakan resep dokter ataupun tidak) yang nantinya dikirim langsung ke lokasi yang diinginkan.
 
 Fitur : Jual/beli produk medis, Pembayaran, Edukasi  dan informasi, Histori
-
-
-Kelompok 11 (Team):
-- Enrico Navarro Lesmana - 2702227473
-- Jacknius - 2702233311
-- ⁠Filip Nathan - 2702232990
-- Dede Natanael Chris Pariu - 2702346714
-- Ar'an Abda'u Munzala Baha Ardi - 2702386730
